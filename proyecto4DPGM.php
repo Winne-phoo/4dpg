@@ -1,4 +1,4 @@
-u<?php
+<?php
 $warzon =[
   "capacidad de birgenes" => "n+50",
   "tamaño de mapa" => 9.5,
@@ -21,7 +21,7 @@ $warzon =[
   "tipos de combates" => "todo tipo",
   "tipos de armas" => "normales",
   "en donde se puede jugar" => "pc xbox playstation telefono",
-]
+];
   $fornite[
   "capacida de jugadores" => "n100",
   "tamaño de mapa" => 5.4,
@@ -44,4 +44,27 @@ $warzon =[
   "tipos de combates" => "todo tipo"
   "tipos de armas" => "normales"
   "en donde se puede jugar" => "pc xbox playstation switch"
-  ]
+  ];
+  $freefire =[
+  "capacidad de birgenes" => 100,
+  "tamaño de mapa" => 10,
+  "numero de ubicasiones" => 15,
+  "cauntos maps tiene" => 6,
+  "cuantos modos de juego tiene" => 3,
+  "en que año enpesaron" => 2017,
+  "nombre de el creador o empresa" => "Garena",
+  "dinero total ganado" => "83 millones ",
+  "total de jugadores" => "1000 millones",
+  "que tipos de zonas tienen" => "zona toxica",
+  "como se llega al batle royal" => "en un avion",
+  "como ganas escudo" => "con setas",
+  "cantidad de vida" => 100,
+  "cantidad de escudo" => 100,
+  "numero de personas que pueden jugar" => 4,
+  "tiempo de inicio aprox de una partida" => "varia",
+  "cantidad de servidores" => 6,
+  "cuanto gana al dia" =>"50 millones",
+  "tipos de combates" => "todo tipo",
+  "tipos de armas" => "normales",
+ "en donde se puede jugar" => "pc telefono",
+  ];
