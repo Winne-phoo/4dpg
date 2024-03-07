@@ -91,4 +91,10 @@ $warzon =[
   "tipos de armas" => "laser",
  "en donde se puede jugar" => "pc xbox play",
   ];
-
+$juegos=[
+  $warzone,
+  $fornite,
+  $freefire,
+  $apex
+];
+echo json_encode($juegos);
